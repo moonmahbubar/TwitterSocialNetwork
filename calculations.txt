@@ -1,0 +1,4 @@
+Number of nodes: 120
+Number of edges: 131
+Diameter: 6
+Average distance: 4.739915966386555
